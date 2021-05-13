@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="123.txt" t="Include" />
+        <e p="aDC.txt" t="Include" />
+        <e p="aze.txt" t="Include" />
+        <e p="clignotant5766.txt" t="Include" />
+        <e p="clock 5766.txt" t="Include" />
+        <e p="dxsw.txt" t="Include" />
+        <e p="glider5766 .txt" t="Include" />
+        <e p="motif" t="Include">
+          <e p="clignotant5766.txt" t="Include" />
+          <e p="clock 5766.txt" t="Include" />
+          <e p="glider5766 .txt" t="Include" />
+          <e p="octogone 5766.txt" t="Include" />
+          <e p="test.txt" t="Include" />
+        </e>
+        <e p="octogone 5766.txt" t="Include" />
+        <e p="Oscilateur2.txt" t="Include" />
+        <e p="pentacdecathlon 5766 3da.txt" t="Include" />
+        <e p="Ressources" t="Include">
+          <e p="testBouton.cs" t="Include" />
+        </e>
+        <e p="sauvegardes" t="Include">
+          <e p="NouveauNom.txt" t="Include" />
+          <e p="test17042021.txt" t="Include" />
+          <e p="TrueEaster.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AffichageInformation.cs" t="Include" />
+          <e p="AffichageSauvegarde.cs" t="Include" />
+          <e p="Cell.cs" t="Include" />
+          <e p="GameSettings.cs" t="Include" />
+          <e p="Motif.cs" t="Include" />
+          <e p="Move.cs" t="Include" />
+          <e p="Parametres.cs" t="Include" />
+          <e p="SceneLoader.cs" t="Include" />
+          <e p="SettingManager.cs" t="Include" />
+          <e p="SettingsMenu.cs" t="Include" />
+          <e p="ShowFPS.cs" t="Include" />
+          <e p="View.cs" t="Include" />
+        </e>
+        <e p="StableCube.txt" t="Include" />
+      </e>
+      <e p="jeu de la vie.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_jeu de la vie.1092983422.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+/Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

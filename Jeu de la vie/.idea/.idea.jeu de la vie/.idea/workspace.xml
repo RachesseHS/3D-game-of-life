@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69f78574-5bf9-4c11-8a00-e3804f6eb6bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AffichageInformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/Assets/Scripts/Cell.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/Assets/Scripts/Cell.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/Assets/Scripts/AffichageInformation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/Assets/Scripts/AffichageInformation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/zhaohengsheng/Documents/svn2020/svn/2020-l3ai2/trunk/jeu de la vie/Assets/Scripts/AffichageInformation.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Cell.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AffichageInformation.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1rDHEKt61zKQKJyWlehDuYNRx4V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../.." />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../.." />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../.." />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../.." />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69f78574-5bf9-4c11-8a00-e3804f6eb6bc" name="Default Changelist" comment="" />
+      <created>1618503627866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618503627866</updated>
+      <workItem from="1618503631692" duration="3448000" />
+      <workItem from="1619430283074" duration="1252000" />
+      <workItem from="1620393207699" duration="988000" />
+      <workItem from="1620395310395" duration="1000" />
+      <workItem from="1620395326826" duration="6000" />
+      <workItem from="1620739299819" duration="1657000" />
+      <workItem from="1620740963988" duration="6319000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1618505770026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618505770026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changer la méthode de init random">
+      <created>1620837688054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620837688057</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1620837781031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620837781031</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1620840927031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620840927031</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1620840948028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620840948028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="changer la méthode de init random" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

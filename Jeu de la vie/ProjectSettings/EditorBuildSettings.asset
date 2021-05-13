@@ -9,12 +9,30 @@ EditorBuildSettings:
     path: Assets/Scenes/menu principal.unity
     guid: 2345b962ba95347228ab5acea02920a7
   - enabled: 1
-    path: Assets/Scenes/Menu secondaire.unity
-    guid: f7e982fb617c24d42801f27ce6437127
-  - enabled: 1
-    path: "Assets/Scenes/Parame\u0300tres.unity"
-    guid: ff46c4848578550478e95bc971093511
-  - enabled: 1
     path: Assets/Scenes/game.unity
     guid: de899423b2b604b508372ea1f1a307dc
+  - enabled: 1
+    path: Assets/Scenes/Menu Options.unity
+    guid: 8aa759d65ae034546938e1491b0ad3f5
+  - enabled: 1
+    path: "Assets/Scenes/Parame\u0300tre.unity"
+    guid: 29b48ddc05239da439d0ce1725a0ae14
+  - enabled: 1
+    path: Assets/Scenes/Menu Options Game.unity
+    guid: 473d53c5488bc5447933121b43a86ea4
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 257def7c28de61b40b8a1dd99687684d
+  - enabled: 1
+    path: "Assets/Scenes/Parame\u0300treGame.unity"
+    guid: b128cf3370c6e91429e2ab6feb9ee637
+  - enabled: 1
+    path: "Assets/Scenes/Simulations Sauvegarde\u0301es.unity"
+    guid: 08d0cfe02e1808c4c9686c5cdddc20c5
+  - enabled: 1
+    path: Assets/Scenes/Guide.unity
+    guid: a4e35e3a71cb0416697e79cfe188e802
+  - enabled: 1
+    path: Assets/Scenes/Motifs.unity
+    guid: 8cb91cb19700df943bef1d5375b0424e
   m_configObjects: {}
